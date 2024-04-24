@@ -7,13 +7,6 @@ You can also ping me(@gyanlakshmi) on Telegram to help you assign right tasks.
 
 # ERC721 on StarkNet
 
-Welcome! This is an automated workshop that will explain how to deploy an ERC721 token on StarkNet and customize it to perform specific functions. The ERC721 standard is described [here](https://docs.openzeppelin.com/contracts/3.x/api/token/erc721).
-It is aimed at developers that:
-
-- Understand Cairo syntax
-- Understand the ERC721 token standard
-​
-​
 
 ## Introduction
 
